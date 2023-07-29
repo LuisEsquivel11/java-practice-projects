@@ -2,7 +2,7 @@ package decision_structure;
 
 import java.util.Scanner;
 
-public class SalaryCalculator {
+public class SalaryCalculator {//========================= If statement ===========================
 
     public static void main(String[] args) {
 /* All sales people get a payment of $1000 for the week.
@@ -21,5 +21,7 @@ public class SalaryCalculator {
         }
 
         System.out.println("Salary: " + salary);
+
+
     }
 }
