@@ -2,7 +2,7 @@ package decision_structure;
 
 import java.util.Scanner;
 
-public class GradeMessage_SwitchExpressions {
+public class GradeMessage_SwitchExpressions {//================= Switch Expressions =======================
 
     public static void main(String[] args) {
         System.out.println("Enter your letter grade");
