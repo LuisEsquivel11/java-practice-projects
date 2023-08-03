@@ -15,6 +15,7 @@ public class GreetUser {
         String name = scanner.next();
         scanner.close();
         return name;
+
     }
 
     public static void greetUser(String name) {
